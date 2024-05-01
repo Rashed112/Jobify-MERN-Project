@@ -18,7 +18,7 @@
 
    ```sh
    cd jobify
-   npm install 
+   npm run setup-production-app 
    ```
 
 3. Set up environment variables: To run the application locally or deploy it elsewhere, you need to set up the following environment variables in a `.env` file at the root of the project. Here's how to fill in each variable:

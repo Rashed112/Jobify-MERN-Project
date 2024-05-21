@@ -1,6 +1,6 @@
 # Jobify - Job Tracking App
-- **Developed and deployed a full-stack job tracking application using the MERN stack**, enabling users to manage their job applications with functionalities such as account creation, adding, updating, and deleting job entries. Integrated advanced features including sorting capabilities and statistical visualizations via charts to enhance user experience.
-- **Implemented robust user authentication and admin features**, allowing secure login and administrative access to oversee all user activities and job data. Successfully **deployed** the application on Render, demonstrating proficiency in full lifecycle software development and cloud-based technologies.
+- Developed a comprehensive job tracking web app with user authentication via **JWT tokens** and **HTTP-only cookies**. Utilized **React Query** for efficient **data caching** and included **pagination** for seamless navigation. Implemented a **RESTful API** for backend communication.
+- Enabled **user account management**, including **profile picture upload**, **job modification**, and **sorting** functions. Implemented **data visualization** with **interactive charts**. **Deployed** securely on **Render** for cloud-based access.
 - **Technologies Used:** [MongoDB](https://www.mongodb.com/), [Express.js](https://expressjs.com/), [React.js](https://react.dev/), [Node.js](https://nodejs.org/en), [Vite](https://vitejs.dev/), [Render](https://render.com/)
   
 #### Complete App

@@ -37,7 +37,7 @@
     ```plaintext
     NODE_ENV=development
     PORT=5100
-    MONGO_URL=mongodb+srv://<username>:<password>@<dbname>.4ta0jpc.mongodb.net/JOBIFY?retryWrites=true&w=majority&appName=Cluster0
+    MONGO_URL=mongodb+srv://<username>:<password>@cluster0.a3mftk7.mongodb.net/<dbname>?retryWrites=true&w=majority&appName=Cluster0
     JWT_SECRET=your_secret_key
     JWT_EXPIRES_IN=1d
     CLOUD_NAME=your_cloud_name
